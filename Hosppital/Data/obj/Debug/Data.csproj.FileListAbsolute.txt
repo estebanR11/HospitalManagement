@@ -1,0 +1,11 @@
+E:\Proyectos\HospitalManagement\Hosppital\Data\bin\Debug\Data.dll
+E:\Proyectos\HospitalManagement\Hosppital\Data\bin\Debug\Data.pdb
+E:\Proyectos\HospitalManagement\Hosppital\Data\bin\Debug\Common.dll
+E:\Proyectos\HospitalManagement\Hosppital\Data\bin\Debug\Model.dll
+E:\Proyectos\HospitalManagement\Hosppital\Data\bin\Debug\Common.pdb
+E:\Proyectos\HospitalManagement\Hosppital\Data\bin\Debug\Model.pdb
+E:\Proyectos\HospitalManagement\Hosppital\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+E:\Proyectos\HospitalManagement\Hosppital\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+E:\Proyectos\HospitalManagement\Hosppital\Data\obj\Debug\Data.csproj.CopyComplete
+E:\Proyectos\HospitalManagement\Hosppital\Data\obj\Debug\Data.dll
+E:\Proyectos\HospitalManagement\Hosppital\Data\obj\Debug\Data.pdb

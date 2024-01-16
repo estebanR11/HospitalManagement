@@ -1,0 +1,11 @@
+E:\Proyectos\HospitalManagement\Hosppital\REST\bin\Debug\REST.dll
+E:\Proyectos\HospitalManagement\Hosppital\REST\bin\Debug\REST.pdb
+E:\Proyectos\HospitalManagement\Hosppital\REST\bin\Debug\Common.dll
+E:\Proyectos\HospitalManagement\Hosppital\REST\bin\Debug\Model.dll
+E:\Proyectos\HospitalManagement\Hosppital\REST\bin\Debug\Common.pdb
+E:\Proyectos\HospitalManagement\Hosppital\REST\bin\Debug\Model.pdb
+E:\Proyectos\HospitalManagement\Hosppital\REST\obj\Debug\REST.csproj.AssemblyReference.cache
+E:\Proyectos\HospitalManagement\Hosppital\REST\obj\Debug\REST.csproj.CoreCompileInputs.cache
+E:\Proyectos\HospitalManagement\Hosppital\REST\obj\Debug\REST.csproj.CopyComplete
+E:\Proyectos\HospitalManagement\Hosppital\REST\obj\Debug\REST.dll
+E:\Proyectos\HospitalManagement\Hosppital\REST\obj\Debug\REST.pdb

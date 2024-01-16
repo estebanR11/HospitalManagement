@@ -1,0 +1,15 @@
+E:\Proyectos\HospitalManagement\Hosppital\Logic\bin\Debug\Logic.dll
+E:\Proyectos\HospitalManagement\Hosppital\Logic\bin\Debug\Logic.pdb
+E:\Proyectos\HospitalManagement\Hosppital\Logic\bin\Debug\Common.dll
+E:\Proyectos\HospitalManagement\Hosppital\Logic\bin\Debug\Data.dll
+E:\Proyectos\HospitalManagement\Hosppital\Logic\bin\Debug\Model.dll
+E:\Proyectos\HospitalManagement\Hosppital\Logic\bin\Debug\REST.dll
+E:\Proyectos\HospitalManagement\Hosppital\Logic\bin\Debug\Common.pdb
+E:\Proyectos\HospitalManagement\Hosppital\Logic\bin\Debug\Data.pdb
+E:\Proyectos\HospitalManagement\Hosppital\Logic\bin\Debug\Model.pdb
+E:\Proyectos\HospitalManagement\Hosppital\Logic\bin\Debug\REST.pdb
+E:\Proyectos\HospitalManagement\Hosppital\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+E:\Proyectos\HospitalManagement\Hosppital\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+E:\Proyectos\HospitalManagement\Hosppital\Logic\obj\Debug\Logic.csproj.CopyComplete
+E:\Proyectos\HospitalManagement\Hosppital\Logic\obj\Debug\Logic.dll
+E:\Proyectos\HospitalManagement\Hosppital\Logic\obj\Debug\Logic.pdb
